@@ -14,6 +14,7 @@ import Demo2 from './Demo2';
 // import Todolist from './components/Todolist';
 
 import Login from './components/Login';
+import Git from './Git';
 // import Footer from './components/Footer';
 
 
@@ -52,7 +53,7 @@ function App() {
 // <Route path="login" element={<Login/>
 
 </Routes>} */}
-
+<Git/>
 </div>
   );
 }
