@@ -35,6 +35,7 @@ const Footer = () => {
                         <p>8121567350</p>
                         <p>www.baseltechnologies.com</p>
                     </div>
+                    <button>submit</button>
                 </div>
             </div>
         </footer>
